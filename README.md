@@ -23,10 +23,10 @@ Welcome to my **Professional Development Portfolio**! This repository highlights
 | SQL Basic Level                          | HackerRank           | ![Preview](https://raw.githubusercontent.com/ruchisingh-dev/certifications/main/images/sql-basic-hackerrank.png)       | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/sql_basic-Hackerrank.pdf)            |
 | SQL Intermediate Level                   | HackerRank           | ![Preview](https://raw.githubusercontent.com/ruchisingh-dev/certifications/main/images/sql-intermediate-hr.png)         | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/sql_intermediate-Hackerrank.pdf)      |
 | SQL Advanced Level                       | HackerRank           | ![Preview](https://raw.githubusercontent.com/ruchisingh-dev/certifications/main/images/sql-advanced-hr.png)             | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/sql_advanced-Hackerrank.pdf)          |
-| Power BI Beginner to Pro Workshop        | Pragmatic Works      | ![Preview](images/powerbi-pgw.png)                                                                 | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/PowerBI_BeginnerToPro-Pragmatic.pdf) |
-| Excel Beginner to Pro                    | Pragmatic Works      | ![Preview](images/excel-pgw.png)                                                                  | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/Excel_BeginnerToPro-Pragmatic.pdf)   |
-| DAX Functions Workshop                   | Pragmatic Works      | ![Preview](images/dax-pgw.png)                                                                    | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/DAX_FunctionsWorkshop-Pragmatic.pdf) |
-| Power Automate Beginner to Pro Workshop  | Pragmatic Works      | ![Preview](images/power-automate-pgw.png)                                                         | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/PowerAutomate_BeginnerToPro.pdf)     |
+| Power BI Beginner to Pro Workshop        | Pragmatic Works      | ![Preview](images/powerbi-pgw.png)                                                                 | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/Power%20BI%20Beginner%20to%20Pro%20Workshop%20%20-%20Pragmatic%20Works.pdf) |
+| Excel Beginner to Pro                    | Pragmatic Works      | ![Preview](images/excel-pgw.png)                                                                  | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/Excel%20Beginner%20to%20Pro%20-%20Pragmatic%20Works.pdf)   |
+| DAX Functions Workshop                   | Pragmatic Works      | ![Preview](images/dax-pgw.png)                                                                    | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/DAX%20Functions%20Workshop%20-%20Pragmatic%20Works.pdf) |
+| Power Automate Beginner to Pro Workshop  | Pragmatic Works      | ![Preview](images/power-automate-pgw.png)                                                         | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/Power%20Automate%20Beginner%20to%20Pro%20Workshop%20-%20Lakshay%20Kamat.pdf)     |
 
 ---
 
@@ -34,7 +34,7 @@ Welcome to my **Professional Development Portfolio**! This repository highlights
 
 | **Certification**        | **Issuer**      | **Preview**                                                                                            | **Certificate Link**                                                                                 |
 |---------------------------|-----------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| GitHub Learning Path      | Great Learning  | ![Preview](https://raw.githubusercontent.com/ruchisingh-dev/certifications/main/images/github-gl.png) | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/GitHub-GreatLearning.pdf) |
+| GitHub Learning Path      | Great Learning  | ![Preview](images/github-gl.png) | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/Gituhb%20-%20Great%20Learning.pdf) |
 
 ---
 
@@ -42,7 +42,7 @@ Welcome to my **Professional Development Portfolio**! This repository highlights
 
 | **Certification**      | **Issuer** | **Preview**                                                                                            | **Certificate Link**                                                                 |
 |------------------------|------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| UI Path Certification  | UI Path    | ![Preview](https://raw.githubusercontent.com/ruchisingh-dev/certifications/main/images/uipath.png)     | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/UIPath.pdf) |
+| UI Path Certification  | UI Path    | ![Preview](https://raw.githubusercontent.com/ruchisingh-dev/certifications/main/images/uipath.png)     | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/UI%20Path.pdf) |
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to my **Professional Development Portfolio**! This repository highlights
 
 | **Certification**    | **Issuer** | **Preview**                                                                                            | **Certificate Link**                                                                 |
 |-----------------------|------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Soft Skills           | NPTEL      | ![Preview](https://raw.githubusercontent.com/ruchisingh-dev/certifications/main/images/soft-skills-nptel.png) | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/SoftSkills-NPTEL.pdf) |
+| Soft Skills           | NPTEL      | ![Preview](https://raw.githubusercontent.com/ruchisingh-dev/certifications/main/images/soft-skills-nptel.png) | [View Certificate](https://github.com/ruchisingh-dev/certifications/blob/main/Soft%20Skills%20-%20NPTEL.pdf) |
 
 ---
 
